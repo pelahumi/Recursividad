@@ -8,4 +8,4 @@ def palindromo(palabra):
             return False
 
 palabra = str(input("Introduce una palabra: "))
-palindromo(palabra)
+print("La palabra ", palabra, " es palíndromo: ", palindromo(palabra))

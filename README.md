@@ -2,7 +2,7 @@
 La dirección de este repositorio es la siguuiente: [GitHub](https://github.com/pelahumi/Recursividad)
 
 ## Búsqueda por dicotomía
-```
+```python
 lista = [13, 45, 23, 98, 27, 37, 77, 1, 63]
 
 def ordenar(lista):
@@ -39,7 +39,7 @@ busqueda(n, lista)
 ```
 
 ## Palíndromos
-```
+```python
 def caracteres_especiales(palabra):
     
     #Esta función nos elimina los posibles acentos y suprime los espacios

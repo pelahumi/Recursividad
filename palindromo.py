@@ -1,5 +1,6 @@
 def caracteres_especiales(palabra):
-
+    
+    #Esta función nos elimina los posibles acentos y suprime los espacios
     palabra = palabra.lower()
     palabra = palabra.replace(" ", "")
     palabra = palabra.replace("á", "a")
